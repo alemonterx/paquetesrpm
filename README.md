@@ -8,9 +8,9 @@
 1. [Introducción](introduccion.md)
    * ¿Qué son los paquetes rpm?
 3. [Distribución Rocky Linux](carasteristicas.md)
-   * Característica de esta distribución
+   * Características de esta distribución
 5. [Repositorios](repositorios.md)
-   * Ficheros donde se guardan los repositorios
+   * ¿En qué ficheros se gaurdan los repositorios?
 7. [Caso práctico]()
 8. [Webgrafía](webgrafia.md)
 
