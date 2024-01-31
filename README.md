@@ -6,10 +6,11 @@
 
 ## ÍNDICE
 1. [Introducción](introduccion.md)
-2. [Distribución Rocky Linux](carasteristicas.md)
-3. [Repositorios](repositorios.md)
-4. [Caso práctico]()
-5. [Webgrafía](webgrafia.md)
+   * ¿Qué son los paquetes rpm?
+3. [Distribución Rocky Linux](carasteristicas.md)
+4. [Repositorios](repositorios.md)
+5. [Caso práctico]()
+6. [Webgrafía](webgrafia.md)
 
 ## AUTORES
 * [Alejandro Montero Agroba](https://github.com/alemonterx)
