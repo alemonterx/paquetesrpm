@@ -6,11 +6,17 @@
 
 ## ÍNDICE
 1. [Introducción](introduccion.md)
+   
    * ¿Qué son los paquetes rpm?
+     
 3. [Distribución Rocky Linux](carasteristicas.md)
+   
    * Características de esta distribución
+     
 5. [Repositorios](repositorios.md)
+   
    * ¿En qué ficheros se gaurdan los repositorios?
+     
 7. [Caso práctico]()
 8. [Webgrafía](webgrafia.md)
 
