@@ -1,1 +1,1 @@
-<img src="img/portada.jpg" alt="RockyLinux" width="900px">
+<img src="img/portada.png" alt="RockyLinux" width="900px">
