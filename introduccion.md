@@ -9,8 +9,8 @@ Es un sistema de gestión de paquetes que se ejecuta en Red Hat Enterprise Linux
 
 ## 2. Ventajas de este gestor de paquetes (RPM)
   *  Instalar, reinstalar, eliminar, actualizar y verificar los paquetes con herramientas estándar como Yum o PackageKit.
-  *  Para verificar los paquetes utiliza una base de datos de esos paquetes ya instalados.
-  *  A través de metadatos nos ofrece descripción de los paquetes, instrucciones para su instalación y otros parámetros del propio paquete.
+  *  Verificar los paquetes utilizando una base de datos de esos paquetes ya instalados.
+  *  Ofrecer una descripción de los paquetes, instrucciones para su instalación y otros parámetros del propio paquete utilizando metadatos.
   *  Poder empaquetar fuentes de software, parches e instrucciones completas de construcción en paquetes fuente y binarios.
   *  Añadir paquetes a los repositorios Yum.
   *  Proteger sus paquetes firmando digitalmente con claves de firma GNU Privacy y Guard (GPG).
