@@ -15,7 +15,7 @@
      
 5. [Repositorios](repositorios.md)
    
-   * ¿En qué ficheros se gaurdan los repositorios?
+   * ¿En qué ficheros se guardan los repositorios?
      
 7. [Caso práctico]()
 8. [Webgrafía](webgrafia.md)
