@@ -1,4 +1,4 @@
-#REPOSITORIOS EN ROCKY LINUX
+# REPOSITORIOS EN ROCKY LINUX
 
 ![Repositorios](img/repositorios.jpg)
 
