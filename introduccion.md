@@ -2,7 +2,7 @@
 
 ![Paquetes RPM](img/paquetesrpm.jpg)
 
-> Voy a explicaros que significa la extensión .rpm de dichos paquetes y cuál es su ventaja
+> Voy a explicaros que significa la extensión .rpm de dichos paquetes y cuales son sus ventajas.
 
 ## 1. ¿Qué es RPM?
 Es un sistema de gestión de paquetes que se ejecuta en Red Hat Enterprise Linux, CentOS y Fedora. Se utiliza para distribuir, gestionar y actualizar el software que cree para los sistemas operativos nombrados anteriormente.
