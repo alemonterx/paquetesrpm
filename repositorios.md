@@ -8,5 +8,7 @@ Para visualizar los repositorios por defecto que nos trae Rocky Linux debemos de
 Para visualizar específicamente los repositorios de Rocky Linux ejecutaremos el siguiente comando:
 
 ```bash
-cat /etc/yum.repos.d/
+cat /etc/yum.repos.d/rocky.repo
 ```
+
+![RepositoriosPersonales](img/repositoriosalemonterx.png)
