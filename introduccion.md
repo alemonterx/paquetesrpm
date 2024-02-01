@@ -7,6 +7,8 @@
 ## 1. ¿Qué es RPM?
 Es un sistema de gestión de paquetes que se ejecuta en Red Hat Enterprise Linux, CentOS y Fedora. Se utiliza para distribuir, gestionar y actualizar el software que cree para los sistemas operativos nombrados anteriormente.
 
+---
+
 ## 2. Ventajas de este gestor de paquetes (RPM)
   *  Instalar, reinstalar, eliminar, actualizar y verificar los paquetes con herramientas estándar como Yum o PackageKit.
   *  Verificar los paquetes utilizando una base de datos de esos paquetes ya instalados.
