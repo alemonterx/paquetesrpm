@@ -17,8 +17,9 @@
    
    * ¿En qué ficheros se guardan los repositorios?
      
-7. [Caso práctico]()
-8. [Webgrafía](webgrafia.md)
+7. [Caso práctico](https://www.youtube.com/watch?v=7jJqhQe5bxA)
+   
+9. [Webgrafía](webgrafia.md)
 
 ## AUTORES
 * [Alejandro Montero Agroba](https://github.com/alemonterx)
