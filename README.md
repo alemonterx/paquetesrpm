@@ -17,7 +17,7 @@
    
    * ¿En qué ficheros se guardan los repositorios?
      
-7. [Caso práctico](https://www.youtube.com/watch?v=7jJqhQe5bxA)
+7. [Caso práctico](https://www.youtube.com/watch?v=sbfy-Cz3hgQ)
    
 9. [Webgrafía](webgrafia.md)
 
