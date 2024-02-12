@@ -1,7 +1,7 @@
 # WEBGRAFÍA
 
-> Para realizar este proyecto he hecho uso de las siguientes páginas:
-  * [www.hardzone.es](https://hardzone.es/reportajes/que-es/disco-duro/)
-  * [www.pccomponentes.com](https://www.pccomponentes.com/hdd-vs-ssd-que-disco-duro-es-mejor)
-  * [www.kingston.com](https://www.kingston.com/es/blog/pc-performance/two-types-m2-vs-ssd)
-  * [www.avast.com](https://www.avast.com/es-es/c-what-is-ssd)
+> Para realizar este proyecto hemos hecho uso de las siguientes páginas:
+  * [www.hostinger.es](https://www.hostinger.es/tutoriales/rocky-linux#Caracteristicas)
+  * [access.redhat.com](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/packaging_and_distributing_software/getting-started-with-rpm-packaging)
+  * [es.wikipedia.org](https://es.wikipedia.org/wiki/RPM_Package_Manager)
+  * [www.youtube.com](https://www.youtube.com/channel/UCE67X-TxJzc_9I_lAztga8g/playlists)
